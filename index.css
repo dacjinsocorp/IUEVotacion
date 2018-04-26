@@ -20,7 +20,6 @@ body{
     height: 10%;
 }
 
-<<<<<<< HEAD
 .cooldown-bar{
     background-color: #ddd;
     position: absolute;
@@ -30,7 +29,7 @@ body{
     height: 50px;
     text-align: center;
     font-size: 30px;
-=======
+}
 .div-welcome-card{
     margin-left: 10%;
     margin-top: 10%;
@@ -52,5 +51,4 @@ body{
     border-radius: 0px;
     float: left;
     margin-right: 5%;
->>>>>>> a0455b10e0240e46ed7a8be724ead5d700abe456
 }
