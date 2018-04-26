@@ -19,3 +19,14 @@ body{
     width: 10%;
     height: 10%;
 }
+
+.cooldown-bar{
+    background-color: #ddd;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+}
