@@ -19,3 +19,26 @@ body{
     width: 10%;
     height: 10%;
 }
+
+.div-welcome-card{
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 30%;
+}
+.card{
+    border-radius: 0px;
+}
+
+
+
+
+.card-option-buttons{
+    width: 100%;
+    float: left;
+}
+.btn-card{
+    width: 45%;
+    border-radius: 0px;
+    float: left;
+    margin-right: 5%;
+}
