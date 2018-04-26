@@ -1,0 +1,116 @@
+body{
+    background-color: #333;
+}
+
+
+
+.index-div-background-image{
+    width: 100%;
+    position: absolute;
+}
+.index-background-image{
+    width: 100%;
+    opacity: 0.5;
+}
+
+
+.logo-iue-nav{
+    width: 10%;
+    height: 10%;
+}
+
+.cooldown-bar{
+    background-color: #ddd;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+.div-welcome-card{
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 30%;
+}
+.card{
+    border-radius: 0px;
+    float: left;
+}
+
+
+
+
+.card-option-buttons{
+    width: 100%;
+    float: left;
+}
+.btn-card{
+    width: 45%;
+    border-radius: 0px;
+    float: left;
+    margin-right: 5%;
+}
+
+
+.welcome-user{
+    margin-left: 5%;
+}
+
+
+.option-title{
+    width: 100%;
+    margin-top: 2%;
+    text-align: center;
+}
+.option-title-text{
+    color: #fff;
+}
+.option-card{
+    width: 95%;
+    margin-left: 8%;
+    margin-right: 2.5%;
+    margin-top: 2%;
+}
+
+
+.card-body{
+    width: 100%;
+    float: left;
+}
+.card-button-vote{
+    width: 20%;
+    float: right;
+}
+
+.btn-go-vote{
+    width: 100%;
+    border-radius: 0%;
+    margin-top: -35%;
+}
+
+
+
+.candidate-image{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+.btn{
+    border-radius: 0%;
+    width: 100%;
+}
+
+.div-number{
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 5%; 
+    background-color: #0067bc;
+    width: 20%;
+}
+
+.number{
+    text-align: center;
+}
