@@ -1,0 +1,54 @@
+body{
+    background-color: #333;
+    overflow: hidden;
+}
+
+
+
+.index-div-background-image{
+    width: 100%;
+    position: absolute;
+}
+.index-background-image{
+    width: 100%;
+    opacity: 0.5;
+}
+
+
+.logo-iue-nav{
+    width: 10%;
+    height: 10%;
+}
+
+.cooldown-bar{
+    background-color: #ddd;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+.div-welcome-card{
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 30%;
+}
+.card{
+    border-radius: 0px;
+}
+
+
+
+
+.card-option-buttons{
+    width: 100%;
+    float: left;
+}
+.btn-card{
+    width: 45%;
+    border-radius: 0px;
+    float: left;
+    margin-right: 5%;
+}
