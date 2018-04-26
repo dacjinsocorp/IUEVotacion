@@ -31,13 +31,19 @@
     <div class="div-welcome-card">
         <div class="card">
             <div class="card-body">
-                <h5 class="card-title">Bienvenido</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Sistema de votaciones IUE</h6>
-                <p class="card-text">Para activarse como votante click en "activar", si ya se activó click en votar. <br>¿Dudas? <a href="#" class="card-link">Ver instructivo.</a> <br></p>
-                <div class="card-option-buttons">
-                    <button type="button" onclick="location.href='View/signup.html'" class="btn btn-warning btn-card">Activarme</button>
-                    <button type="button" onclick="location.href='View/login.html'" class="btn btn-success btn-card">Votar</button>
-                </div>
+                <h5 class="card-title">Ingresar</h5>                
+                <form>
+                    <div class="form-group">
+                      <label for="exampleInputEmail1">Documento de identidad</label>
+                      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Documento de identidad">
+                    </div>
+                    <div class="form-group">
+                      <label for="exampleInputPassword1">Contraseña</label>
+                      <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Contraseña">
+                    </div>
+                    <a class="form-group" href="signup.html">Obtener contraseña</a><br><br>
+                    <button type="submit" class="btn btn-primary">Entrar</button>
+                  </form>
 
             </div>
         </div>
